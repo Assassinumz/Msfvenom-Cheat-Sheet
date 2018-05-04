@@ -1,5 +1,5 @@
-<h1 align="centre"> Msfvenom-Cheat-Sheet</h1>
-<p align="centre">
+<h1 align="center"> Msfvenom-Cheat-Sheet</h1>
+<p align="center">
   A list of msfvenom commands
 </p>
 
